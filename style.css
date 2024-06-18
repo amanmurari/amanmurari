@@ -1,0 +1,350 @@
+body {
+    font-size: 15pt;
+    background-color:rgba(0,0,1,.9) ;
+    color: #fff;
+    max-width: 100vw;
+}
+*{
+ margin: 0;padding: 0;
+ text-decoration: none;
+ box-sizing: border-box;
+ user-select: none;
+ overflow-x: hidden;
+}
+button{
+  cursor: pointer;
+  
+}
+a{
+  color: #fff;
+}
+nav{
+ background: rgba(0,0,0,.4);
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ height: 65px;
+ top: 0;
+ top: 0;
+ z-index: 999;
+ position: sticky;
+ transition: 1s all;
+ font-style: italic;
+}
+nav img{
+ height: 40px;
+ width: 40px;
+ vertical-align: top;
+ margin-left: 40px;
+}
+nav li{
+ float: left;
+ margin-left: 30px;
+ margin-right: 20px;
+ font-weight: bolder;
+ font-size: x-large;
+}
+nav button, .men button{
+ display: inline;
+ width: 40px;
+ height: 40px;
+ font-size: 29px;
+ font-weight: bolder;
+ margin-left: 22px;
+ margin-top: 4px;
+ color: #fff;
+ background-color: transparent;
+ border: none;
+ display: none;
+}
+.men{
+ width: 100vw;
+ height: 11vw;
+ line-height: 11vh;
+ background-color: #000;
+ display: flex;
+ justify-content: center;
+ display: none;
+}
+
+.left{
+  margin-top: 50px;
+  width: 500px;
+  margin-left: 5%;
+  line-height: 40px;
+}
+.right{
+  float: right;
+  width: 300px;
+}
+
+header .right #head-circle{
+  background-image: radial-gradient(#ffffff,#1cb6c9);
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-left: 100px;
+  
+}
+header .right img{
+  position: absolute;
+  top: 100px;
+  right: 10px;
+  width: 350px;
+  height: 400px;
+}
+header .left button{
+  width: 150px;
+  height: 50px;
+  background: linear-gradient(#b2cbf5dd,#0e4ebadd);
+  box-shadow: 3px 3px 1px #adadad;
+  color: #ffc;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+margin-left: 40px;
+  margin-top: 30px;
+  font-family: cursive;
+  cursor: pointer;
+  display: inline;
+}
+header .left h5{
+  color: rgba(255,255,255,.6);
+}
+header .left button:hover{
+  background: linear-gradient(#0e4ebadd,#b2cbf5dd);
+}
+header .left h1{
+  color: #fff;
+  text-shadow: 3px 3px 1px #adadad;
+  -webkit-text-stroke: .9px #ab4;
+  font-size: 35px;
+  font-weight: bolder;
+  font-style: italic;
+  
+}
+header .left h3{
+  background-image: -webkit-linear-gradient(right, #1c45c9, #c41cc9)
+  ;
+  background-image: -moz-linear-gradient(right, #1c45c9, #c41cc9);
+  background-image: -o-linear-gradient(right, #1c45c9, #c41cc9);
+  
+  background-image: linear-gradient(to left, #1c45c9, #c41cc9);
+  width: 200px;
+text-align: center;
+height: 40px;
+font-size: 20px;
+font-weight: bold;
+color:rgba(255,255,255,.9) ;
+border-radius: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+header{
+  padding-bottom: 3px ;
+  border-bottom: 5px rgba(255,255,255,.9) solid;
+  border-bottom-right-radius: 100px;
+  height: 470px;
+}
+section{
+  height: 600px;
+  border-bottom: 3px rgba(255,255,255,.9) solid;
+  padding-bottom: 20px;
+  margin-right: 10px;
+  box-shadow: 0px 3px .6px #adadad;
+}
+section .right{
+  width: 500px;
+  text-align: center;
+  color: rgba(255,255,255,.6);
+
+}
+section .left{
+  background-color: rgba(0,0,0,.3);
+  width: 320px;
+  border-radius: 60px;
+  height: 90%;
+  border: 2px #ff72efdd dashed;
+  text-align: center;
+ margin-left: 37px;
+ overflow :hidden;
+
+}
+
+section .left img{
+   height: 100%;
+   width: 100%;
+ }
+section h3{
+  margin-top: 20px;
+   color: #72fff6dd;
+  text-shadow: 3px 3px 1px #adadad;
+  margin-bottom: 20px;
+  font-size: 29px;
+  text-decoration: underline;
+}
+aside .menu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+aside .menu button{
+  height: 50px;
+  margin-left: 40px;
+  width: 230px;
+  color: #fff;
+  box-shadow: 3px 3px .6px #adadad;
+  border-radius: 20px;
+  background-image: linear-gradient(#fdbffcdd,#660164dd);
+  border: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+aside{
+  text-align: center;
+ width: 100vw; 
+}
+aside .menu .click{
+  height: 60px;
+  width: 250px;
+  background-image: linear-gradient(#187204dd,#b0f9a0dd);
+}
+aside table{
+  width: 100vw;
+max-height: 700px;
+  border: none;
+  font-style: italic;
+  
+}
+table tr{
+  height: 150px;
+  
+  
+  text-align: center;
+}
+table td{
+  
+  background-image: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.7));
+  border-radius: 20px;
+  white-space-collapse: 10px;
+  cursor: pointer;
+}
+
+table td span{
+  margin-left: 10px;
+  font-size: 30px;
+
+  font-weight: bolder;
+  color: #b8f3d9dd;
+  
+}
+
+table td img{
+  vertical-align: middle;
+  border-radius: 10px;
+}
+table td:hover{
+  background-image: linear-gradient(rgba(70,10,10,1),rgba(70,10,10,.5));
+  box-shadow: 4px 4px 2px #adadad;
+  position: relative;
+  z-index: 10;
+  width: calc(100vw/2.75);
+  
+}
+
+address{
+  margin-top: 50px;
+width: 95vw;
+text-align: center;
+}
+address table tr {
+  height: 300px;
+}
+
+
+address .container{
+  width: 100vw;
+  margin-left: 15px;
+  
+}
+
+address .project{
+  display: inline-block;
+  width: 270px;
+  background-image: linear-gradient(#fc84b0dd,#810130dd);
+  color: rgba(255,255,244,.7);
+  height: 220px;
+  font-size: 30px;
+  margin: 20px;
+  
+  
+  border-radius: 20px;
+}
+address h4{
+  text-align: center;
+  background-color: rgba(0,0,0.5);
+  width: 200px;
+  margin-left: 50%;
+  margin-top: 50%;
+  transform: translate(-50%,-70%);
+  border-radius: 10px;
+  font-weight: bold;
+  
+}
+address .project:hover{
+  background-image: rgba(0,0,0,.1);
+}
+
+
+
+footer button{
+width: 120px;
+height: 50px;
+color: #fff;
+font-weight: bold;
+border-radius: 10px;
+font-style: italic;
+font-size: 10px;
+background-image: linear-gradient(#ffecafdd,#6f5500dd);
+border: none;
+}
+.contact{
+  height: 500px;
+  text-align: center;
+  padding-top: 30px;
+  
+}
+input,textarea{
+  outline: none;
+  border: none;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom: 2px solid #72037add;
+  caret-color: red;
+   color:#ffafd3dd ;
+   height: 30px;
+   width: 400px;
+   background-color: rgba(0,0,0.2);
+   border-radius: 10px;
+   padding: 15px;
+   margin-left: 20px;
+   font-family: cursive;
+   user-select: none;
+   
+}
+label{
+  display: block;
+  margin: 10px;
+}
+
+.copy{
+  height: 70px;
+  width: 100vw;
+  text-align: center;
+  font-weight: 23;
+  background-color: rgba(0,0,0,1);
+}
+textarea{
+  height: 200px;
+  vertical-align: middle;
+}
