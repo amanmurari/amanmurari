@@ -39,4 +39,4 @@ Contact
 
 Twitter: @data_scientist_ account
 LinkedIn: linkedin.com/in/dat Scientistprofile
-Email: [data.scientist@email.com](mailto:data.scientist@email.com)
+Email: [@email](mailto: amankumar947001334@gmail.com)
