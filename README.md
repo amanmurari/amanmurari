@@ -36,5 +36,5 @@ Feel free to explore my repository and connect with me if you have any questions
 Contact
 =======
 
-LinkedIn: linkedin.com/in/dat Scientistprofile
+LinkedIn: https://www.linkedin.com/in/amanmurarisingh
 Email: [@email](mailto: amankumar947001334@gmail.com)
