@@ -17,7 +17,7 @@ Here are some examples of my projects:
 1. **COVID-19 sentiment analysis**: I used natural language processing techniques to analyze Twitter data and create visualizations of public sentiment toward COVID-19 vaccines.
 2. **MovieLens dataset analysis**: I used statistical modeling and data visualization to explore movielens.org, a dataset of movie ratings from a movie streaming platform.
 3. **Soccer player comparison**: I used machine learning algorithms to compare soccer players based on their performance data.
-4. **Predicting stock prices**: I used time series analysis and machine learning to predict stock prices for a hypothetical portfolio.
+4. **Predicting stock prices**: I used LSTM and machine learning to predict stock prices for a hypothetical portfolio.
 
 Skills
 ======
@@ -25,7 +25,6 @@ Skills
 My skills and areas of expertise include:
 
 * Python (pandas, numpy, scikit-learn, etc.)
-* R (ggplot2, dplyr, caret, etc.)
 * SQL
 * Data visualization (Matplotlib, Seaborn, Plotly, etc.)
 * Machine learning (scikit-learn, TensorFlow, Keras, etc.)
@@ -37,6 +36,5 @@ Feel free to explore my repository and connect with me if you have any questions
 Contact
 =======
 
-Twitter: @data_scientist_ account
 LinkedIn: linkedin.com/in/dat Scientistprofile
 Email: [@email](mailto: amankumar947001334@gmail.com)
