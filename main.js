@@ -1,4 +1,4 @@
-window.location.href = "http://www.w3schools.com";
+window.location.href = "https://amanmurari.github.io/ams/";
 console.log('Hello World!');
 function ou(){
  document.querySelector('nav').style.display = 'block'
