@@ -1,3 +1,4 @@
+window.location.href = "http://www.w3schools.com";
 console.log('Hello World!');
 function ou(){
  document.querySelector('nav').style.display = 'block'
