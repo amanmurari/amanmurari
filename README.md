@@ -37,4 +37,4 @@ Contact
 =======
 
 LinkedIn: https://www.linkedin.com/in/amanmurarisingh
-Email: [@email](mailto: amankumar947001334@gmail.com)
+Email: [@email](mailto: amanmuraris@gmail.com)
