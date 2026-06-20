@@ -1,40 +1,145 @@
-About
-============
+Aman Murari Singh
 
-Welcome to my GitHub profile! My name is Aman Murari Singh, and I am a data scientist with a passion for using data to tell compelling stories and drive informed decision-making.
+AI Engineer | AI Researcher | LLMs | AI Agents | Reinforcement Learning
 
-On this profile, you'll find examples of my work in data science, including projects I've worked on, code I've written, and insights I've uncovered. My areas of expertise include data visualization, machine learning, and statistical modeling. I'm also interested in using data to explore social and environmental issues.
+I am an AI Engineer and AI Researcher with 1+ years of hands-on experience in AI research, Large Language Models, AI agents, and real-world AI product development.
 
-I'm always looking to collaborate with others who share my passion for data science. Let's connect and see how we can work together to uncover valuable insights from data!
+I enjoy building AI systems where research meets practical products.
 
-You can also find me on LinkedIn, where I regularly share articles and insights on data science and related topics.
+---
 
-Projects
-========
+About Me
 
-Here are some examples of my projects:
+- Former AI Engineer at DoubtBuddy
+- Former Paid AI Research Intern at Vizuara
+- Worked on AI research problems using the latest OpenAI GPT-OSS model
+- Built and shipped real AI products
+- Interested in LLMs, AI Agents, Reinforcement Learning, and Human-like AI learning
 
-1. **COVID-19 sentiment analysis**: I used natural language processing techniques to analyze Twitter data and create visualizations of public sentiment toward COVID-19 vaccines.
-2. **MovieLens dataset analysis**: I used statistical modeling and data visualization to explore movielens.org, a dataset of movie ratings from a movie streaming platform.
-3. **Soccer player comparison**: I used machine learning algorithms to compare soccer players based on their performance data.
-4. **Predicting stock prices**: I used LSTM and machine learning to predict stock prices for a hypothetical portfolio.
+---
 
-Skills
-======
+Research Work
 
-My skills and areas of expertise include:
+At Vizuara, I worked on AI research problems around the latest OpenAI GPT-OSS model.
 
-* Python (pandas, numpy, scikit-learn, etc.)
-* SQL
-* Data visualization (Matplotlib, Seaborn, Plotly, etc.)
-* Machine learning (scikit-learn, TensorFlow, Keras, etc.)
-* Time series analysis
-* Statistics (hypothesis testing, confidence intervals, etc.)
+I published the open-source repository:
 
-Feel free to explore my repository and connect with me if you have any questions or projects in mind!
+nano-gpt-oss
 
-Contact
-=======
+GitHub: "https://github.com/VizuaraAILabs/nano-gpt-oss" (https://github.com/VizuaraAILabs/nano-gpt-oss)
 
-LinkedIn: https://www.linkedin.com/in/amanmurarisingh
-Email: [@email](mailto: amanmuraris@gmail.com)
+Impact:
+
+- 100+ GitHub stars
+- 30+ forks
+- Open-source AI research project
+- Useful for AI learners, developers, and researchers
+
+This project is special to me because I did not only read AI research. I implemented it, shared it publicly, and made it useful for the community.
+
+---
+
+Best Project
+
+Excel AI Agent
+
+At DoubtBuddy, I shipped an Excel AI Agent that runs inside Microsoft Excel.
+
+The problem was simple: many users spend a lot of time doing manual Excel work.
+
+The AI Agent helps users:
+
+- Analyze data automatically
+- Clean messy data
+- Do feature engineering
+- Create charts and visualizations
+- Generate automatic reports
+- Extract data from PDFs
+- Extract data from web pages
+- Work directly inside Microsoft Excel
+
+This project is strong because it was not just a demo. It was a real AI product built for real users and real workflows.
+
+---
+
+Technical Skills
+
+AI / Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- AI Agents
+- Reinforcement Learning
+- Natural Language Processing
+- Data Analysis
+
+Tools and Frameworks
+
+- Python
+- PyTorch
+- LangChain
+- FastAPI
+- React
+- Microsoft Excel Add-ins
+- APIs
+- GitHub
+- PDF Extraction
+- Web Data Extraction
+
+---
+
+Research Interests
+
+I am deeply interested in building AI that can learn like humans.
+
+Today, most AI systems learn from fixed data. But humans learn by trying, making mistakes, taking feedback, and improving.
+
+My long-term goal is to build AI agents that can:
+
+- Observe the real world
+- Take actions
+- Learn from feedback
+- Improve through experience
+- Use reinforcement learning
+- Work in real-world environments
+
+I want to build AI that moves beyond only answering questions and becomes useful in real physical and digital work.
+
+---
+
+Featured Projects
+
+nano-gpt-oss
+
+Open-source AI research project based on OpenAI GPT-OSS.
+
+- Focused on LLM architecture and training
+- Built for AI learners and researchers
+- Crossed 100+ stars and 30+ forks
+
+Excel AI Agent
+
+AI assistant inside Microsoft Excel.
+
+- Automates data analysis
+- Cleans data
+- Creates reports
+- Builds visualizations
+- Extracts data from PDFs and web pages
+
+---
+
+My Vision
+
+My goal is to build research-driven AI systems from India.
+
+I believe good AI research should not stay only in papers. It should become useful products that solve real-world problems.
+
+I want to work on AI agents that can learn, reason, act, and improve like humans.
+
+---
+
+Connect With Me
+
+- Email: amanmuraris@gmail.com
