@@ -38,7 +38,8 @@ I published the open-source repository:
 
 🔗 Repository: "VizuaraAILabs/nano-gpt-oss" (https://github.com/VizuaraAILabs/nano-gpt-oss)
 
-<div align="center">Metric| Impact
+<div align="center">
+ Metric| Impact
 ⭐ GitHub Stars| 100+
 🍴 Forks| 30+
 🧪 Domain| LLM Research
