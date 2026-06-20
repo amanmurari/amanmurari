@@ -1,6 +1,6 @@
 <div align="center">👋 Hi, I'm Aman Murari Singh
 
-AI Engineer | AI Research Enthusiast | LLMs | AI Agents | Reinforcement Learning
+AI Engineer | AI Researcher | LLMs | AI Agents | Reinforcement Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI+systems+where+research+meets+real+products;LLMs+%7C+AI+Agents+%7C+Reinforcement+Learning;Working+on+AI+that+can+learn+from+feedback+like+humans" alt="Typing SVG" /><br/><a href="https://github.com/amanmurari">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
@@ -14,7 +14,7 @@ AI Engineer | AI Research Enthusiast | LLMs | AI Agents | Reinforcement Learning
 
 🚀 About Me
 
-I am an AI Engineer and AI Research enthusiast with 1+ years of hands-on experience in building AI systems, LLM projects, AI agents, and real-world AI products.
+I am an AI Engineer and AI Researcher with 1+ years of hands-on experience in building AI systems, LLM projects, AI agents, and real-world AI products.
 
 I like working on problems where AI research becomes useful products.
 
