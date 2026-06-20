@@ -1,4 +1,5 @@
-<div align="center">👋 Hi, I'm Aman Murari Singh
+<div align="center">
+  # 👋 Hi, I'm Aman Murari Singh
 
 AI Engineer | AI Research Enthusiast | LLMs | AI Agents | Reinforcement Learning
 
@@ -38,10 +39,8 @@ During my AI Research Internship at Vizuara, I worked on research problems aroun
 
 I published the open-source repository:
 
-🔗 Repository: "VizuaraAILabs/nano-gpt-oss" (https://github.com/VizuaraAILabs/nano-gpt-oss)
+🔗 Repository: [VizuaraAILabs/nano-gpt-oss](https://github.com/VizuaraAILabs/nano-gpt-oss)
 
-<div align="center">
-  
  | Metric | Impact |
   | --- | --- |
 | ⭐ GitHub Stars | 100+ |
@@ -51,6 +50,7 @@ I published the open-source repository:
 | 🛠️ Focus | Model Architecture & Training |
 
 </div>This project helped me understand how research ideas can be implemented, tested, and shared with the AI community.
+</div>
 
 ---
 
@@ -107,13 +107,15 @@ Most AI systems learn from fixed data. Humans learn by trying, making mistakes, 
 
 My long-term goal is to build AI agents that can:
 
-<div align="center">flowchart LR
+```mermaid
+flowchart LR
     A[Observe] --> B[Think]
     B --> C[Act]
     C --> D[Get Feedback]
     D --> E[Improve]
     E --> A
-
+...
+```
 </div>Areas I Care About
 
 - Large Language Models
