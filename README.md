@@ -10,7 +10,9 @@ AI Engineer | AI Research Enthusiast | LLMs | AI Agents | Reinforcement Learning
 </a>
 <a href="mailto:amanmuraris@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a></div>---
+</a></div>
+
+---
 
 🚀 About Me
 
@@ -91,7 +93,9 @@ The AI Agent helps users:
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></div>---
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></div>
+
+---
 
 🔬 Research Interests
 
