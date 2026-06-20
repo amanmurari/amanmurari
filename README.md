@@ -47,7 +47,7 @@ I also published the open-source repository:
 
 Excel AI Agent
 
-At DoubtBuddy, I shipped an AI Agent that runs inside Microsoft Excel.
+I shipped an AI Agent that runs inside Microsoft Excel.
 
 The problem was simple:
 people spend too much time cleaning data, analyzing data, creating charts, making reports, and extracting data manually.
@@ -104,18 +104,6 @@ Areas I care about
 - Human-like learning
 - AI systems that learn from feedback
 - AI for real digital and physical environments
-
----
-
-📌 Project Timeline
-
-timeline
-    title My AI Journey
-    2024 : Started building AI/ML projects
-    2025 : Worked on AI research at Vizuara
-    2025 : Published nano-gpt-oss
-    2026 : Built Excel AI Agent at DoubtBuddy
-    Future : Building AI agents that learn from feedback
 
 ---
 
