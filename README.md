@@ -1,4 +1,4 @@
-<div align="center">
+
   # 👋 Hi, I'm Aman Murari Singh
 
 AI Engineer | AI Research Enthusiast | LLMs | AI Agents | Reinforcement Learning
