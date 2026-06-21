@@ -155,7 +155,9 @@ My dream is to work on AI agents that can:
 <div align="center">«Good AI research should not stay only in papers.
 It should become useful systems that solve real problems.»
 
-</div>---
+</div>
+
+---
 
 🤝 Connect With Me
 
@@ -165,7 +167,9 @@ It should become useful systems that solve real problems.»
   <img src="https://img.shields.io/badge/LinkedIn-Aman%20Murari%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
 </a><a href="mailto:amanmuraris@gmail.com">
   <img src="https://img.shields.io/badge/Email-amanmuraris%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a></div>---
+</a></div>
+
+---
 
 <div align="center">Thanks for visiting my profile 🚀
 
@@ -199,4 +203,6 @@ It should become useful systems that solve real problems.»
   <img src="https://img.shields.io/badge/LinkedIn-Aman%20Murari%20Singh-blue?style=for-the-badge&logo=linkedin" />
 </a><a href="mailto:amanmuraris@gmail.com">
   <img src="https://img.shields.io/badge/Email-amanmuraris%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a></div>---
+</a></div>
+
+---
